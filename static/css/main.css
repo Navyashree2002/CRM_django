@@ -1,10 +1,12 @@
 
         body{
             background-color: #ebeff5;
+            color: black;
         }
         #total-orders
         {
             background-color: #4cb4e7;
+            color:black;
         }
         #orders-delivered
         {
